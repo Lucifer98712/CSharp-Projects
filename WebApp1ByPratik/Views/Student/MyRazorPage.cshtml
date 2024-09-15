@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "MyRazorPage";
+}
+<p>The current date and time is: @DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")</p>
+<p>Name: Pratik Shah</p>
+<p>Roll_No: 64/077</p>
+<p>Multiplication table of 565:</p>
+<table border="1">
+    <tr>
+        <th></th>
+        <th>65</th>
+        
+    </tr>
+    @for (int i = 1; i <= 10; i++)
+    {
+        <tr>
+            <th>@i</th>
+            <td>@(65 * i)</td>
+        </tr>
+    }
+</table>
