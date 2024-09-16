@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h1>Pratik Shah - Roll_No: 64/077</h1>
+
+<form id="signUpForm">
+    <div>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" required />
+    </div>
+    
+    <div>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required />
+    </div>
+    <div>
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" id="confirmPassword" name="confirmPassword" required />
+    </div>
+    <button type="submit">Sign Up</button>
+</form>
+
+<script>
+    $(document).ready(function() {
+        $("#signUpForm").on("submit", function(event) {
+            event.preventDefault();
+
+            var isValid = true;
+            var errorMessage = "";
+
+            // Validate Username
+            if ($("#username").val().trim() === "") {
+                isValid = false;
+                errorMessage += "Username is required.\n";
+            }
+
+           
+
+            // Validate Password
+            if ($("#password").val().trim() === "") {
+                isValid = false;
+                errorMessage += "Password is required.\n";
+            }
+
+            // Validate Confirm Password
+            if ($("#password").val().trim() !== $("#confirmPassword").val().trim()) {
+                isValid = false;
+                errorMessage += "Passwords do not match.\n";
+            }
+
+            if (isValid) {
+                alert("Form is valid! Submitting...");
+                // Here you can make an AJAX call to submit the form data
+                // $.ajax({...});
+            } else {
+                alert(errorMessage);
+            }
+        });
+    });
+</script>
