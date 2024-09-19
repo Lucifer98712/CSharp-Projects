@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|d:\\6th sem\\ncc\\labpart2\\webapp4bypratik\\migrations\\20240418022144_mig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C75F5-24E5-4E91-86D6-FC7C80DF8F9C}|EFCoreEg.csproj|solutionrelative:migrations\\20240418022144_mig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:39:34.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAACcAAACAm5mZmZk3wHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:08:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Repositories\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepo.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Repositories\\ProductRepo.cs",
+              "RelativeToolTip": "Repositories\\ProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:53:44.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:51:20.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDbContext.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "Models\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:57:34.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAMAAACAZWZmZmYkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:55:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:04:04.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240418022144_mig01.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Migrations\\20240418022144_mig01.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240418022144_mig01.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\Migrations\\20240418022144_mig01.cs",
+              "RelativeToolTip": "Migrations\\20240418022144_mig01.cs",
+              "ViewState": "AQIAABgAAADgZGZmZmYswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:21:45.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp4ByPratik\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T02:01:00.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
