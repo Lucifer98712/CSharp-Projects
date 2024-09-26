@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\views\\home\\hiddenfield.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:views\\home\\hiddenfield.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\views\\home\\gettempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:views\\home\\gettempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\views\\home\\getsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:views\\home\\getsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\views\\home\\getquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:views\\home\\getquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\views\\home\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:views\\home\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|d:\\6th sem\\ncc\\labpart2\\webapp6bypratik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15938F5F-F30A-4445-9A03-E45171474CAA}|WebApp6ByPratik.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HiddenField.cshtml",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\HiddenField.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\HiddenField.cshtml",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\HiddenField.cshtml",
+              "RelativeToolTip": "Views\\Home\\HiddenField.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:23:14.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetQueryString.cshtml",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetQueryString.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetQueryString.cshtml",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetQueryString.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetQueryString.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:22:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCookie.cshtml",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetCookie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetCookie.cshtml",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetCookie.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetCookie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:22:14.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTempData.cshtml",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetTempData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetTempData.cshtml",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetTempData.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetTempData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:21:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetSession.cshtml",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetSession.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetSession.cshtml",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\GetSession.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:21:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:20:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEMAAACAm5mZmZkwwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:15:21.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:14:44.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\6th SEM\\NCC\\LabPart2\\WebApp6ByPratik\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:13:26.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
