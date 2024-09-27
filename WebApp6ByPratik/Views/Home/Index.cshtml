@@ -1,0 +1,16 @@
+﻿@* Views/Home/Index.cshtml *@
+@model WebApp6ByPratik.Models.UserModel
+
+<h1>Index</h1>
+<p>@ViewBag.Message</p>
+
+<a href="@Url.Action("SetSession", "Home")">Set Session</a>
+<br />
+<a href="@Url.Action("SetTempData", "Home")">Set TempData</a>
+<br />
+<a href="@Url.Action("SetCookie", "Home")">Set Cookie</a>
+<br />
+<a href="@Url.Action("GetQueryString", "Home", new { message = "Hello from Query String!" })">Set Query String</a>
+<br />
+<a href="@Url.Action("HiddenField", "Home")">Set Hidden Field</a>
+<br />
