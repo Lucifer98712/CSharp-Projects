@@ -1,0 +1,7 @@
+﻿
+<h1>Hidden Field</h1>
+<form asp-action="HiddenField" method="post">
+    <input type="hidden" name="hiddenMessage" value="Hello from Hidden Field!" />
+    <button type="submit">Submit</button>
+</form>
+<p>@ViewBag.HiddenFieldMessage</p>
